@@ -1,2 +1,2 @@
-# HackerRank Go Solution
- Some personal solutions for hackerrank problems.
+# HackerRank Golang Solution
+Solutions for hackerrank problems in Golang.
